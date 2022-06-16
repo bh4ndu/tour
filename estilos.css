@@ -129,3 +129,96 @@ h4 {
 	font-weight: bold;
 	text-align: center;
 }
+
+.arriba {
+	background: black;
+	color: white;
+	display: inline-flex;
+	border-width: 10px;
+	 border-style: solid;
+	 border-color: black;
+
+}
+
+.banner img {
+	width: 1520px;
+}
+
+.ofertas img {
+	width: 400px; 
+	height:300px;
+	 border-width: 10px;
+	 border-style: solid;
+	 border-color: black;
+}
+
+.iconos {
+	width: 50px;
+	height: 50px;
+}
+
+h2 {
+	font-weight: bold;
+	text-align: center;
+}
+
+.destinos img {
+	width: 300px; 
+	height:280px;
+	border-width: 10px;
+	 border-style: solid;
+	 border-color: black;
+}
+
+.destinos {
+	font-size: 30px;
+}
+
+.destinos h4 {
+	font-size: 40px;
+}
+
+.destinos h2 {
+	font-size: 40px;
+}
+
+h1	{
+	text-align: center;
+}
+
+.copyright {
+	font-weight: bold;
+}
+
+.contacto {
+	font-size: 40px;
+}
+
+.detalle img {
+	width: 800px;
+	height: 600px;
+	border-width: 10px;
+	 border-style: solid;
+	 border-color: black;
+	 display: block;
+	 margin: auto;
+}
+
+.detalle {
+	display: block;
+	 margin: auto;
+	 font-weight: bolder;	
+}
+
+.incluye {
+	border-width: 10px;
+	 border-style: solid;
+	 border-color: black;
+	 font-size: 30px;
+	 background: black;
+	 color: white;
+}
+
+.formulario input {
+	width: 600px;
+}
